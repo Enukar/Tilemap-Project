@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 288c1eafcdb541d4e9a0666f091bcbdb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dirtTile: {fileID: 11400000, guid: 7bb162d196b8501469930b1f7cd57282, type: 2}
+  - ironOre: {fileID: 11400000, guid: cc21bea873abda14b98d422353482f1e, type: 2}
+  - grassTile: {fileID: 11400000, guid: 2f18b3431bdfd0241824428a8bf962ca, type: 2}
+  - treeTile: {fileID: 11400000, guid: 9bb4b0fed080f3c4e9969d396882df54, type: 2}
+  - leafTile: {fileID: 11400000, guid: aefc3630e20be3b49b4d97ad35883c20, type: 2}
+  - horseTile: {fileID: 11400000, guid: 698916857a146a64b91d56aad25b5bcb, type: 2}
+  - player: {fileID: 5178330349565556315, guid: 8c55272b9adee514fa0283bd2e074c4d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
